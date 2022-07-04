@@ -29,7 +29,7 @@ Most recent freelance project:
  - Before joining tech I was planning to be a classic pianist
  - I love to sing R&B
  - I have had a collection of telephone/credit cards since around my 6yo 👦🏻
-
+---
 If you want to find me somewhere else, I'm @azabraao on the whole web!
 
 <!--
