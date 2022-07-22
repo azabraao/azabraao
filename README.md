@@ -32,6 +32,11 @@ Most recent freelance project:
 ---
 If you want to find me somewhere else, I'm @azabraao on the whole web!
 
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=azabraao)
+
+
 <!--
 **azabraao/azabraao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
