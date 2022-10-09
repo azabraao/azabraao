@@ -1,9 +1,5 @@
 ### Hi there 👋 
 
-✨✨
-I'm currently seeking a remote job. Reach out to me (📫 az.abraao@gmail.com) if you consider hiring me 😊
-✨✨
-
 You will see some random repositories here 😅. This is because I'm always exploring new ideas that come to my mind. (I have a Trello with about 200 crazy ideas not tested yet 🙈).
 
 I'm a [User Innovation](https://en.wikipedia.org/wiki/User_innovation) guy, so I use to start building stuff for my self-improvement, like:
