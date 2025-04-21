@@ -1,38 +1,16 @@
-### Hi there 👋 
+### Hey, I'm Abraão — a software engineer & entrepreneur based in São Paulo, Brazil.
 
-You will see some random repositories here 😅. This is because I'm always exploring new ideas that come to my mind. (I have a Trello with about 200 crazy ideas not tested yet 🙈).
+I build tools that solve real problems and scale fast.
 
-I'm a [User Innovation](https://en.wikipedia.org/wiki/User_innovation) guy, so I use to start building stuff for my self-improvement, like:
-- 📈 [Better Reader](https://github.com/azabraao/better-reader) - it will help you  to read like I already did (1000 words per minute ⚡️)(ongoing)
-- 📊 [Reviewer](https://github.com/azabraao/reviewer) - an old experiment for me to test my productivity.
-- Among others...
+Currently:
+- 🛠️ **Roopairs** – full-time software engineer, shipping product at startup speed  
+- 🧭 **FaithTech São Paulo** – leadership team, building tech with purpose  
+- 🚀 **Bible Journey** – my favorite side project: 8k users active monthly  
 
-And some others that are in private repos, like 
-- 📖 [BiblePlan](https://download-bibleplan.netlify.app/) - a viral app with thousands of users across the globe already in four languages!  
-- 🧠 [Fixer](http://fixer.cf/) - a web app that helps people to pass hard exams.
-- ✏️ [Edit Mode](https://www.editmode.io/) - a nice Chrome Extension. (I sold it!! 💰)
+I’m obsessed with creating things that automate, simplify, and elevate everyday life.  
+Driven by [User Innovation](https://en.wikipedia.org/wiki/User_innovation), I build for myself first — and let it scale from there.
 
-And some other projects for clients that I did as a freelancer. 👨🏽‍💻
-
-Most recent freelance project:
-- [THIS PWA APP](https://amd-gesso-orcamento.vercel.app)! (Have a look at the draggable behavior of some elements. I loved to make it!!)
-
-
-🌱 Currently learning: 
-- Web3
-
-⚡ Fun facts:
- - Before joining tech I was planning to be a classic pianist
- - I love to sing R&B
- - I have had a collection of telephone/credit cards since around my 6yo 👦🏻
----
-If you want to find me somewhere else, I'm @azabraao on the whole web!
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=azabraao)
-
-
+[A bit more about me →](https://azabraao.me)
 <!--
 **azabraao/azabraao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
