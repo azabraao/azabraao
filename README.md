@@ -3,8 +3,8 @@
 I build tools that solve real problems and scale fast.
 
 Currently:
-- 🛠️ **Roopairs** – full-time software engineer, shipping product at startup speed  
-- 🧭 **FaithTech São Paulo** – leadership team, building tech with purpose  
+- 🦘 **Roopairs** – full-time software engineer, shipping product at startup speed  
+- 🙌🏼 **FaithTech São Paulo** – leadership team, building redemptive technology
 - 🚀 **Bible Journey** – my favorite side project: 8k users active monthly  
 
 I’m obsessed with creating things that automate, simplify, and elevate everyday life.  
