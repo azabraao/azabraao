@@ -1,6 +1,6 @@
 ### Hey, I'm Abraão — a software engineer & entrepreneur based in São Paulo, Brazil.
 
-I build tools that solve real problems and scale fast.
+I build tools while having lots of fun doing it.
 
 Currently:
 - 🦘 **Roopairs** – full-time software engineer, shipping product at startup speed  
